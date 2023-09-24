@@ -49,6 +49,11 @@ You can Try my roboflow model with our own custom dataset here is the link:
 https://app.roboflow.com/footballplayertracking-ckto8/footballandplayerdetectiontracking-vjvs6/1
 
 
+#   you vist the following link to see output and another custom model from ROBOFLOW
+
+
+https://www.dropbox.com/scl/fo/bvrswm7pw8pxy00z9kc8o/h?rlkey=xlemcrj62kfgi8vckmjm6y6d8&dl=0
+
 
 
 
