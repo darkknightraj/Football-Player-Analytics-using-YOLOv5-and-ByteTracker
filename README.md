@@ -1,4 +1,10 @@
 
+![image](https://github.com/darkknightraj/Football-Player-Analytics-using-YOLOv5-and-ByteTracker/assets/98232637/fe98c056-4963-4740-9be4-a239cc56a032)
+
+# Guided by :-MR R Raja Subramanian
+![image](https://github.com/darkknightraj/Football-Player-Analytics-using-YOLOv5-and-ByteTracker/assets/98232637/ca349ed5-7295-453f-b41b-b8d5d35d2a38)
+
+
 #Football Player Analytics using YOLOv5 and ByteTracker
 
 
