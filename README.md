@@ -19,7 +19,7 @@ ByteTracker is an advanced object tracking algorithm designed for robust and eff
 
 https://assets-global.website-files.com/62e939ff79009c74307c8d3e/64588bc12835a851824c39d2_c0273485.png
 
-# Deepshort
+# DeepSORT
 The tracking algorithm in DeepSORT is based on a combination of Kalman filtering and deep learning. The Kalman filter is a recursive algorithm that uses a series of measurements over time to predict and update the state of an object. Deep learning is used to learn features from the detections that can be used to accurately associate objects across frames.
 
 DeepSORT has been shown to outperform state-of-the-art tracking algorithms on a variety of benchmarks, including the MOT Challenge and the Kitti Tracking Benchmark. It is a widely used algorithm in a variety of applications, such as video surveillance, traffic monitoring, and human-computer interaction.
